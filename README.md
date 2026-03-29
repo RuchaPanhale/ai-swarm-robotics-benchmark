@@ -33,7 +33,13 @@ The project is being developed in the following stages:
 3. Prompt design  
 4. LLM response collection  
 5. Evaluation using defined rubrics  
-6. Comparative analysis of results  
+6. Comparative analysis of results
+
+## LLMs tested 
+1. ChatGPT
+2. Claude
+3. Gemini
+4. Llama
 
 ## Evaluation Criteria
 
