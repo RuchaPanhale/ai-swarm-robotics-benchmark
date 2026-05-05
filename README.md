@@ -38,11 +38,11 @@ The project is being developed in the following stages:
 6. Comparative analysis of results
 
 ## LLMs tested 
-1. ChatGPT
-2. Claude
-3. Gemini
-4. Perplexity
-5. Used Deepseek to compare AI vs human scoring
+1. ChatGPT 5.3
+2. Claude Sonnet 4.6
+3. Gemini 3 flash
+4. Perplexity Sonar
+5. Used Deepseek V4 Pro to compare AI vs human scoring
 
 ## Evaluation Criteria
 
