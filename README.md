@@ -12,6 +12,7 @@ Large language models are increasingly used for reasoning, planning, and decisio
 - Evaluate LLM responses on technical, safety, and ethical dimensions
 - Compare model strengths, weaknesses, and failure patterns
 - Build a structured benchmark for future research in AI and robotics evaluation
+- Compare AI vs Human evaluation using DeepSeek to score ChatGPT & Claude's answers
 
 ## Project Scope
 
@@ -22,6 +23,7 @@ This benchmark focuses on text-based scenarios involving autonomous robotic swar
 - Environmental monitoring
 - Security surveillance
 - Search and rescue
+- Underwater Exploration
 - Safety-critical public operations
 
 ## Methodology
@@ -39,7 +41,8 @@ The project is being developed in the following stages:
 1. ChatGPT
 2. Claude
 3. Gemini
-4. Llama
+4. Perplexity
+5. Used Deepseek to compare AI vs human scoring
 
 ## Evaluation Criteria
 
