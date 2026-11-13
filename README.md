@@ -5,7 +5,7 @@ A benchmark for evaluating how well large language models reason about **autonom
 **Team:** Rucha Panhale and Maxime Argenson
 **Course:** AI & Society, Binghamton University, Spring 2026
 
-📄 [Full report](docs/Report.pdf) · 📊 [Slides](docs/slides.pptx) · 📓 [Analysis notebook](notebooks/data_analysis.ipynb)
+📄 [Full report](docs/Report.pdf) · 📓 [Analysis notebook](notebooks/data_analysis.ipynb)
 
 ---
 
@@ -94,7 +94,7 @@ Higher is always better. All 216 responses were scored by both team members toge
 data/        benchmark dataset: scenarios, questions, model responses and scores
 notebooks/   analysis notebook: validation, statistics, significance tests, figures
 results/     generated figures
-docs/        project report and slides
+docs/        project report
 ```
 
 ## How to run
