@@ -28,6 +28,20 @@ DeepSeek V4 Pro scored 95% of 108 responses lower than human raters (mean gap âˆ
 
 ---
 
+## Practical takeaways: choosing a model
+
+A short decision guide for teams choosing an LLM to support safety-critical swarm robotics work, based on the human-scored results above (54 questions per model).
+
+- **Shortlist Claude Sonnet 4.6 and ChatGPT 5.3 Instant.** They are statistically tied at the top (Wilcoxon, Holm-corrected p = 0.40), and neither hallucinated in any of its 54 responses.
+- **If minimizing risk matters most, choose ChatGPT 5.3 Instant.** It had 0 hallucinations, 0 overconfident answers, the most consistent scores (SD 0.60) and no score below 8/10.
+- **If depth on safety and ethics matters most, choose Claude Sonnet 4.6.** It scored highest on safety awareness (1.96/2) and ethical awareness (1.61/2) and gave 30 perfect answers out of 54. All 4 of its overconfident answers were in Search & Rescue, so pair it with human review in that domain.
+- **Avoid Gemini 3 Flash and Perplexity AI Sonar for safety-critical work.** They hallucinated in 14.8% and 18.5% of responses. 12 of their 18 hallucinations came from just two pairs: Gemini 3 Flash in Agriculture and Perplexity AI Sonar in Environmental Monitoring.
+- **Don't rely on an AI judge alone.** DeepSeek V4 Pro scored 95% of answers (103/108) lower than the human raters, never higher, and reversed the ranking of the top two models. Use AI judging as a first pass, with human review.
+
+*Scope: no cost, latency or pricing data was collected, so these takeaways cover response quality only.*
+
+---
+
 ## Results
 
 | Model | Mean score (/10) | Std. dev. | Perfect 10s | Hallucination rate | Overconfidence rate |
