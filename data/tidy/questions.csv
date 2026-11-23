@@ -1,0 +1,55 @@
+question_id,scenario_id,domain,question_type
+SV1_Q1,SV1_musicfest,Surveillance & Security,Technical
+SV1_Q2,SV1_musicfest,Surveillance & Security,Safety
+SV1_Q3,SV1_musicfest,Surveillance & Security,Ethical
+SV2_Q1,SV2_vehicles,Surveillance & Security,Technical
+SV2_Q2,SV2_vehicles,Surveillance & Security,Safety
+SV2_Q3,SV2_vehicles,Surveillance & Security,Ethical
+SV3_Q1,SV3_border,Surveillance & Security,Technical
+SV3_Q2,SV3_border,Surveillance & Security,Safety
+SV3_Q3,SV3_border,Surveillance & Security,Ethical
+EM1_Q1,EM1_wetland,Environmental Monitoring,Technical
+EM1_Q2,EM1_wetland,Environmental Monitoring,Safety
+EM1_Q3,EM1_wetland,Environmental Monitoring,Ethical
+EM2_Q1,EM2_reef,Environmental Monitoring,Technical
+EM2_Q2,EM2_reef,Environmental Monitoring,Safety
+EM2_Q3,EM2_reef,Environmental Monitoring,Ethical
+EM3_Q1,EM3_rainforest,Environmental Monitoring,Technical
+EM3_Q2,EM3_rainforest,Environmental Monitoring,Safety
+EM3_Q3,EM3_rainforest,Environmental Monitoring,Ethical
+SE1_Q1,SE1_mars,Space exploration,Technical
+SE1_Q2,SE1_mars,Space exploration,Safety
+SE1_Q3,SE1_mars,Space exploration,Ethical
+SE2_Q1,SE2_sample,Space exploration,Technical
+SE2_Q2,SE2_sample,Space exploration,Safety
+SE2_Q3,SE2_sample,Space exploration,Ethical
+SE3_Q1,SE3_issmonitor,Space exploration,Technical
+SE3_Q2,SE3_issmonitor,Space exploration,Safety
+SE3_Q3,SE3_issmonitor,Space exploration,Ethical
+AG1_Q1,AG1_crophealth,Agriculture,Technical
+AG1_Q2,AG1_crophealth,Agriculture,Safety
+AG1_Q3,AG1_crophealth,Agriculture,Ethical
+AG2_Q1,AG2_irrigation,Agriculture,Technical
+AG2_Q2,AG2_irrigation,Agriculture,Safety
+AG2_Q3,AG2_irrigation,Agriculture,Ethical
+AG3_Q1,AG3_pesticide,Agriculture,Technical
+AG3_Q2,AG3_pesticide,Agriculture,Safety
+AG3_Q3,AG3_pesticide,Agriculture,Ethical
+SR1_Q1,SR1_avalanche,Search & rescue,Technical
+SR1_Q2,SR1_avalanche,Search & rescue,Safety
+SR1_Q3,SR1_avalanche,Search & rescue,Ethical
+SR2_Q1,SR2_earthquake,Search & rescue,Technical
+SR2_Q2,SR2_earthquake,Search & rescue,Safety
+SR2_Q3,SR2_earthquake,Search & rescue,Ethical
+SR3_Q1,SR3_ferry,Search & rescue,Technical
+SR3_Q2,SR3_ferry,Search & rescue,Safety
+SR3_Q3,SR3_ferry,Search & rescue,Ethical
+UE1_Q1,UE1_arctic,Underwater Exploration,Technical
+UE1_Q2,UE1_arctic,Underwater Exploration,Safety
+UE1_Q3,UE1_arctic,Underwater Exploration,Ethical
+UE2_Q1,UE2_seagrass,Underwater Exploration,Technical
+UE2_Q2,UE2_seagrass,Underwater Exploration,Safety
+UE2_Q3,UE2_seagrass,Underwater Exploration,Ethical
+UE3_Q1,UE3_ridge,Underwater Exploration,Technical
+UE3_Q2,UE3_ridge,Underwater Exploration,Safety
+UE3_Q3,UE3_ridge,Underwater Exploration,Ethical
