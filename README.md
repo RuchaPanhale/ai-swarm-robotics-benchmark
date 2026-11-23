@@ -28,6 +28,18 @@ DeepSeek V4 Pro scored 95% of 108 responses lower than human raters (mean gap âˆ
 
 ---
 
+## Data analytics layer: SQL and Tableau
+
+Added in November 2026 by Rucha Panhale on top of the original research, to make the results queryable and explorable. The benchmark data are unchanged: they are restructured into tidy PostgreSQL tables, analyzed with SQL, and visualized in an interactive Tableau Public dashboard.
+
+### Interactive dashboard
+
+[![Tableau dashboard: model scorecard, score by question type, hallucination heatmap, human vs AI judge](results/fig5_tableau_dashboard.png)](https://public.tableau.com/app/profile/rucha.panhale/viz/LLMSwarmRoboticsBenchmark/Dashboard)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/rucha.panhale/viz/LLMSwarmRoboticsBenchmark/Dashboard)**: filter by domain, question type and model.
+
+---
+
 ## Practical takeaways: choosing a model
 
 A short decision guide for teams choosing an LLM to support safety-critical swarm robotics work, based on the human-scored results above (54 questions per model).
@@ -42,17 +54,7 @@ A short decision guide for teams choosing an LLM to support safety-critical swar
 
 ---
 
-## Data analytics layer: SQL and Tableau
-
-Added in November 2026 by Rucha Panhale on top of the original research, to make the results queryable and explorable. The benchmark data are unchanged: they are restructured into tidy PostgreSQL tables, analyzed with SQL, and visualized in an interactive Tableau Public dashboard.
-
-### Interactive dashboard
-
-[![Tableau dashboard: model scorecard, score by question type, hallucination heatmap, human vs AI judge](results/fig5_tableau_dashboard.png)](https://public.tableau.com/app/profile/rucha.panhale/viz/LLMSwarmRoboticsBenchmark/Dashboard)
-
-**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/rucha.panhale/viz/LLMSwarmRoboticsBenchmark/Dashboard)**: filter by domain, question type and model.
-
-### SQL analysis (PostgreSQL)
+## SQL analysis (PostgreSQL)
 
 `scripts/tidy_tables.py` converts the spreadsheet into 4 linked tables (`models`, `questions`, `responses`, `judge_scores`), checking row counts, rubric ranges and totals before writing anything. Each query in `sql/` answers one question:
 
