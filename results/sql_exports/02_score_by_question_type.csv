@@ -1,0 +1,13 @@
+question_type,model_name,responses,mean_score
+Ethical,Claude Sonnet 4.6,18,9.89
+Ethical,ChatGPT 5.3 Instant,18,9.67
+Ethical,Perplexity AI Sonar,18,9.50
+Ethical,Gemini 3 Flash,18,9.44
+Safety,ChatGPT 5.3 Instant,18,9.61
+Safety,Claude Sonnet 4.6,18,9.44
+Safety,Gemini 3 Flash,18,8.83
+Safety,Perplexity AI Sonar,18,8.67
+Technical,Claude Sonnet 4.6,18,9.11
+Technical,ChatGPT 5.3 Instant,18,8.89
+Technical,Perplexity AI Sonar,18,8.50
+Technical,Gemini 3 Flash,18,7.94

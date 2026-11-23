@@ -1,0 +1,6 @@
+model_name,domain,hallucinations
+Gemini 3 Flash,Agriculture,6
+Perplexity AI Sonar,Environmental Monitoring,6
+Gemini 3 Flash,Space exploration,2
+Perplexity AI Sonar,Agriculture,2
+Perplexity AI Sonar,Underwater Exploration,2

@@ -1,0 +1,5 @@
+model_name,responses,mean_score,sd_score,lowest_score,perfect_10s,hallucinations,overconfident_answers
+Claude Sonnet 4.6,54,9.48,0.67,7,30,0,4
+ChatGPT 5.3 Instant,54,9.39,0.60,8,24,0,0
+Perplexity AI Sonar,54,8.89,0.92,7,17,10,2
+Gemini 3 Flash,54,8.74,0.99,7,13,8,6

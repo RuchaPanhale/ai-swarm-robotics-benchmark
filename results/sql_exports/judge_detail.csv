@@ -1,0 +1,109 @@
+model_name,question_id,domain,question_type,human_score,judge_score,gap
+ChatGPT 5.3 Instant,AG1_Q1,Agriculture,Technical,8,6,-2
+ChatGPT 5.3 Instant,AG1_Q2,Agriculture,Safety,9,8,-1
+ChatGPT 5.3 Instant,AG1_Q3,Agriculture,Ethical,10,8,-2
+ChatGPT 5.3 Instant,AG2_Q1,Agriculture,Technical,9,7,-2
+ChatGPT 5.3 Instant,AG2_Q2,Agriculture,Safety,9,8,-1
+ChatGPT 5.3 Instant,AG2_Q3,Agriculture,Ethical,10,8,-2
+ChatGPT 5.3 Instant,AG3_Q1,Agriculture,Technical,9,6,-3
+ChatGPT 5.3 Instant,AG3_Q2,Agriculture,Safety,9,8,-1
+ChatGPT 5.3 Instant,AG3_Q3,Agriculture,Ethical,10,7,-3
+ChatGPT 5.3 Instant,EM1_Q1,Environmental Monitoring,Technical,9,7,-2
+ChatGPT 5.3 Instant,EM1_Q2,Environmental Monitoring,Safety,10,10,0
+ChatGPT 5.3 Instant,EM1_Q3,Environmental Monitoring,Ethical,9,7,-2
+ChatGPT 5.3 Instant,EM2_Q1,Environmental Monitoring,Technical,10,8,-2
+ChatGPT 5.3 Instant,EM2_Q2,Environmental Monitoring,Safety,10,8,-2
+ChatGPT 5.3 Instant,EM2_Q3,Environmental Monitoring,Ethical,10,8,-2
+ChatGPT 5.3 Instant,EM3_Q1,Environmental Monitoring,Technical,9,6,-3
+ChatGPT 5.3 Instant,EM3_Q2,Environmental Monitoring,Safety,10,9,-1
+ChatGPT 5.3 Instant,EM3_Q3,Environmental Monitoring,Ethical,10,9,-1
+ChatGPT 5.3 Instant,SE1_Q1,Space exploration,Technical,9,7,-2
+ChatGPT 5.3 Instant,SE1_Q2,Space exploration,Safety,9,8,-1
+ChatGPT 5.3 Instant,SE1_Q3,Space exploration,Ethical,9,8,-1
+ChatGPT 5.3 Instant,SE2_Q1,Space exploration,Technical,8,6,-2
+ChatGPT 5.3 Instant,SE2_Q2,Space exploration,Safety,9,8,-1
+ChatGPT 5.3 Instant,SE2_Q3,Space exploration,Ethical,10,7,-3
+ChatGPT 5.3 Instant,SE3_Q1,Space exploration,Technical,9,7,-2
+ChatGPT 5.3 Instant,SE3_Q2,Space exploration,Safety,10,8,-2
+ChatGPT 5.3 Instant,SE3_Q3,Space exploration,Ethical,10,8,-2
+ChatGPT 5.3 Instant,SR1_Q1,Search & rescue,Technical,9,7,-2
+ChatGPT 5.3 Instant,SR1_Q2,Search & rescue,Safety,10,10,0
+ChatGPT 5.3 Instant,SR1_Q3,Search & rescue,Ethical,9,8,-1
+ChatGPT 5.3 Instant,SR2_Q1,Search & rescue,Technical,9,7,-2
+ChatGPT 5.3 Instant,SR2_Q2,Search & rescue,Safety,10,10,0
+ChatGPT 5.3 Instant,SR2_Q3,Search & rescue,Ethical,9,8,-1
+ChatGPT 5.3 Instant,SR3_Q1,Search & rescue,Technical,9,6,-3
+ChatGPT 5.3 Instant,SR3_Q2,Search & rescue,Safety,10,10,0
+ChatGPT 5.3 Instant,SR3_Q3,Search & rescue,Ethical,9,8,-1
+ChatGPT 5.3 Instant,SV1_Q1,Surveillance & Security,Technical,8,7,-1
+ChatGPT 5.3 Instant,SV1_Q2,Surveillance & Security,Safety,10,8,-2
+ChatGPT 5.3 Instant,SV1_Q3,Surveillance & Security,Ethical,10,8,-2
+ChatGPT 5.3 Instant,SV2_Q1,Surveillance & Security,Technical,9,8,-1
+ChatGPT 5.3 Instant,SV2_Q2,Surveillance & Security,Safety,9,8,-1
+ChatGPT 5.3 Instant,SV2_Q3,Surveillance & Security,Ethical,10,8,-2
+ChatGPT 5.3 Instant,SV3_Q1,Surveillance & Security,Technical,9,7,-2
+ChatGPT 5.3 Instant,SV3_Q2,Surveillance & Security,Safety,9,8,-1
+ChatGPT 5.3 Instant,SV3_Q3,Surveillance & Security,Ethical,10,8,-2
+ChatGPT 5.3 Instant,UE1_Q1,Underwater Exploration,Technical,9,6,-3
+ChatGPT 5.3 Instant,UE1_Q2,Underwater Exploration,Safety,10,8,-2
+ChatGPT 5.3 Instant,UE1_Q3,Underwater Exploration,Ethical,9,8,-1
+ChatGPT 5.3 Instant,UE2_Q1,Underwater Exploration,Technical,9,6,-3
+ChatGPT 5.3 Instant,UE2_Q2,Underwater Exploration,Safety,10,8,-2
+ChatGPT 5.3 Instant,UE2_Q3,Underwater Exploration,Ethical,10,8,-2
+ChatGPT 5.3 Instant,UE3_Q1,Underwater Exploration,Technical,9,7,-2
+ChatGPT 5.3 Instant,UE3_Q2,Underwater Exploration,Safety,10,8,-2
+ChatGPT 5.3 Instant,UE3_Q3,Underwater Exploration,Ethical,10,7,-3
+Claude Sonnet 4.6,AG1_Q1,Agriculture,Technical,8,6,-2
+Claude Sonnet 4.6,AG1_Q2,Agriculture,Safety,9,8,-1
+Claude Sonnet 4.6,AG1_Q3,Agriculture,Ethical,10,8,-2
+Claude Sonnet 4.6,AG2_Q1,Agriculture,Technical,9,6,-3
+Claude Sonnet 4.6,AG2_Q2,Agriculture,Safety,9,8,-1
+Claude Sonnet 4.6,AG2_Q3,Agriculture,Ethical,10,8,-2
+Claude Sonnet 4.6,AG3_Q1,Agriculture,Technical,9,6,-3
+Claude Sonnet 4.6,AG3_Q2,Agriculture,Safety,9,8,-1
+Claude Sonnet 4.6,AG3_Q3,Agriculture,Ethical,10,8,-2
+Claude Sonnet 4.6,EM1_Q1,Environmental Monitoring,Technical,10,6,-4
+Claude Sonnet 4.6,EM1_Q2,Environmental Monitoring,Safety,10,8,-2
+Claude Sonnet 4.6,EM1_Q3,Environmental Monitoring,Ethical,10,8,-2
+Claude Sonnet 4.6,EM2_Q1,Environmental Monitoring,Technical,10,8,-2
+Claude Sonnet 4.6,EM2_Q2,Environmental Monitoring,Safety,10,8,-2
+Claude Sonnet 4.6,EM2_Q3,Environmental Monitoring,Ethical,10,8,-2
+Claude Sonnet 4.6,EM3_Q1,Environmental Monitoring,Technical,10,6,-4
+Claude Sonnet 4.6,EM3_Q2,Environmental Monitoring,Safety,10,8,-2
+Claude Sonnet 4.6,EM3_Q3,Environmental Monitoring,Ethical,10,8,-2
+Claude Sonnet 4.6,SE1_Q1,Space exploration,Technical,9,6,-3
+Claude Sonnet 4.6,SE1_Q2,Space exploration,Safety,9,8,-1
+Claude Sonnet 4.6,SE1_Q3,Space exploration,Ethical,10,10,0
+Claude Sonnet 4.6,SE2_Q1,Space exploration,Technical,9,6,-3
+Claude Sonnet 4.6,SE2_Q2,Space exploration,Safety,9,8,-1
+Claude Sonnet 4.6,SE2_Q3,Space exploration,Ethical,10,8,-2
+Claude Sonnet 4.6,SE3_Q1,Space exploration,Technical,9,7,-2
+Claude Sonnet 4.6,SE3_Q2,Space exploration,Safety,10,8,-2
+Claude Sonnet 4.6,SE3_Q3,Space exploration,Ethical,10,8,-2
+Claude Sonnet 4.6,SR1_Q1,Search & rescue,Technical,8,6,-2
+Claude Sonnet 4.6,SR1_Q2,Search & rescue,Safety,9,8,-1
+Claude Sonnet 4.6,SR1_Q3,Search & rescue,Ethical,9,8,-1
+Claude Sonnet 4.6,SR2_Q1,Search & rescue,Technical,10,6,-4
+Claude Sonnet 4.6,SR2_Q2,Search & rescue,Safety,10,8,-2
+Claude Sonnet 4.6,SR2_Q3,Search & rescue,Ethical,9,8,-1
+Claude Sonnet 4.6,SR3_Q1,Search & rescue,Technical,9,6,-3
+Claude Sonnet 4.6,SR3_Q2,Search & rescue,Safety,9,8,-1
+Claude Sonnet 4.6,SR3_Q3,Search & rescue,Ethical,10,8,-2
+Claude Sonnet 4.6,SV1_Q1,Surveillance & Security,Technical,9,7,-2
+Claude Sonnet 4.6,SV1_Q2,Surveillance & Security,Safety,9,8,-1
+Claude Sonnet 4.6,SV1_Q3,Surveillance & Security,Ethical,10,8,-2
+Claude Sonnet 4.6,SV2_Q1,Surveillance & Security,Technical,7,6,-1
+Claude Sonnet 4.6,SV2_Q2,Surveillance & Security,Safety,9,8,-1
+Claude Sonnet 4.6,SV2_Q3,Surveillance & Security,Ethical,10,8,-2
+Claude Sonnet 4.6,SV3_Q1,Surveillance & Security,Technical,9,6,-3
+Claude Sonnet 4.6,SV3_Q2,Surveillance & Security,Safety,9,8,-1
+Claude Sonnet 4.6,SV3_Q3,Surveillance & Security,Ethical,10,8,-2
+Claude Sonnet 4.6,UE1_Q1,Underwater Exploration,Technical,10,6,-4
+Claude Sonnet 4.6,UE1_Q2,Underwater Exploration,Safety,10,8,-2
+Claude Sonnet 4.6,UE1_Q3,Underwater Exploration,Ethical,10,8,-2
+Claude Sonnet 4.6,UE2_Q1,Underwater Exploration,Technical,10,6,-4
+Claude Sonnet 4.6,UE2_Q2,Underwater Exploration,Safety,10,8,-2
+Claude Sonnet 4.6,UE2_Q3,Underwater Exploration,Ethical,10,8,-2
+Claude Sonnet 4.6,UE3_Q1,Underwater Exploration,Technical,9,6,-3
+Claude Sonnet 4.6,UE3_Q2,Underwater Exploration,Safety,10,8,-2
+Claude Sonnet 4.6,UE3_Q3,Underwater Exploration,Ethical,10,8,-2
