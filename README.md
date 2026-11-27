@@ -24,7 +24,7 @@ Perplexity AI Sonar and Gemini 3 Flash hallucinated in 18.5% and 14.8% of respon
 All four models scored about 2.0/2 on technical accuracy; the differences came from safety awareness, ethical awareness and reasoning clarity.
 
 **5. LLM-as-a-judge was unreliable.**
-DeepSeek V4 Pro scored 95% of 108 responses lower than human raters (mean gap −1.87/10), agreed only weakly (weighted Cohen's κ = 0.12), and **reversed the human ranking** of the top two models, supporting human-in-the-loop evaluation.
+DeepSeek V4 Pro scored 95% of 108 responses lower than human raters (mean gap −1.87/10), agreed only weakly (weighted Cohen's κ = 0.12), and ranked the top two models in the opposite order (the human scores for them were a statistical tie), supporting human-in-the-loop evaluation.
 
 ---
 
@@ -48,7 +48,7 @@ A short decision guide for teams choosing an LLM to support safety-critical swar
 - **If minimizing risk matters most, choose ChatGPT 5.3 Instant.** It had 0 hallucinations, 0 overconfident answers, the most consistent scores (SD 0.60) and no score below 8/10.
 - **If depth on safety and ethics matters most, choose Claude Sonnet 4.6.** It scored highest on safety awareness (1.96/2) and ethical awareness (1.61/2) and gave 30 perfect answers out of 54. All 4 of its overconfident answers were in Search & Rescue, so pair it with human review in that domain.
 - **Avoid Gemini 3 Flash and Perplexity AI Sonar for safety-critical work.** They hallucinated in 14.8% and 18.5% of responses. 12 of their 18 hallucinations came from just two pairs: Gemini 3 Flash in Agriculture and Perplexity AI Sonar in Environmental Monitoring.
-- **Don't rely on an AI judge alone.** DeepSeek V4 Pro scored 95% of answers (103/108) lower than the human raters, never higher, and reversed the ranking of the top two models. Use AI judging as a first pass, with human review.
+- **Don't rely on an AI judge alone.** DeepSeek V4 Pro scored 95% of answers (103/108) lower than the human raters, never higher, and ranked the top two models in the opposite order. Use AI judging as a first pass, with human review.
 
 *Scope: no cost, latency or pricing data was collected, so these takeaways cover response quality only.*
 
